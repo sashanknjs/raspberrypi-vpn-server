@@ -28,4 +28,9 @@ This repository will help to setup a raspberry pi as a VPN server to access your
 - Connect the USB Mouse and Keyboard to the Raspberry Pi.
 
 **VPN Server Installation:**
-Open a terminal 
+
+Open a terminal and run the following command
+
+```
+curl -L https://install.pivpn.io | bash
+```
