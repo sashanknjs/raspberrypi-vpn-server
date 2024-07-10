@@ -1,10 +1,6 @@
 # raspberrypi-vpn-server
 This repository will help to setup a raspberry pi as a VPN server to access your home network wirelessly from anywhrere in the world.
 
-
-![image](https://github.com/sashanknjs/raspberrypi-vpn-server/assets/168824530/94338ae9-cb72-4a3f-b7c1-4dbb4587750d)# raspberrypi-vpn-server
-This repository will help to setup a raspberry pi as a VPN server to access your home internet from anywhere in the world
-
 To setup the Raspberry Pi, refere to [this](https://github.com/sashanknjs/raspberrypi-setup) page.
 
 Before beginning to install the VPN server on the Raspberry Pi, a couple of important things to note.
